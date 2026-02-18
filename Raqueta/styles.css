@@ -412,8 +412,7 @@ button,
 }
 
 .hero-footer-detail {
-    position: absolute;
-    bottom: 60px;
+    margin-top: 10px;
     font-size: 0.6rem;
     text-transform: uppercase;
     letter-spacing: 0.8em;
